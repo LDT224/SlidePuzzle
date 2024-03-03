@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "4a808cb8-cd0b-4208-a21d-ed41e7a0ff3b",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2500,
+  "height": 2500,
+  "platformSettings": {},
+  "subMetas": {
+    "—Pngtree—you win brush stroke colorful_4006155": {
+      "ver": "1.0.6",
+      "uuid": "f5eab1c0-7d18-4876-8db1-b3be6812763e",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "4a808cb8-cd0b-4208-a21d-ed41e7a0ff3b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -7.5,
+      "offsetY": -42.5,
+      "trimX": 132,
+      "trimY": 618,
+      "width": 2221,
+      "height": 1349,
+      "rawWidth": 2500,
+      "rawHeight": 2500,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

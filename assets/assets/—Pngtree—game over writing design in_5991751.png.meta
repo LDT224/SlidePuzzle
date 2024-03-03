@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "ae6f2ab0-0957-42d2-9332-2cfd27eeb845",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 4080,
+  "height": 4080,
+  "platformSettings": {},
+  "subMetas": {
+    "—Pngtree—game over writing design in_5991751": {
+      "ver": "1.0.6",
+      "uuid": "2f8b20f9-fdbe-4b9f-b1c3-f7cb157cbbb2",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "ae6f2ab0-0957-42d2-9332-2cfd27eeb845",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 4080,
+      "height": 4080,
+      "rawWidth": 4080,
+      "rawHeight": 4080,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

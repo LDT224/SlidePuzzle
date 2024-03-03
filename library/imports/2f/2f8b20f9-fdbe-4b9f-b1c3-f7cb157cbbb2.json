@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "—Pngtree—game over writing design in_5991751",
+    "texture": "ae6f2ab0-0957-42d2-9332-2cfd27eeb845",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      4080,
+      4080
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      4080,
+      4080
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

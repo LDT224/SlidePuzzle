@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "—Pngtree—you win brush stroke colorful_4006155",
+    "texture": "4a808cb8-cd0b-4208-a21d-ed41e7a0ff3b",
+    "atlas": "",
+    "rect": [
+      132,
+      618,
+      2221,
+      1349
+    ],
+    "offset": [
+      -7.5,
+      -42.5
+    ],
+    "originalSize": [
+      2500,
+      2500
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}
